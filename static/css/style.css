@@ -119,6 +119,9 @@ h1 {
 
 footer {
     margin-top: 20px;
+}
+
+footer a {
     color: #FFF;
     font-size: 13px;
 }
