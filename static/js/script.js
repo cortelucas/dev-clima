@@ -25,6 +25,8 @@ search.addEventListener('submit', async (e) => {
       clearInfo();
       showWarning('Não encontramos esta localização!')
     }
+  } else {
+    clearInfo();
   }
 });
 
